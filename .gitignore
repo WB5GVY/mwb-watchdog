@@ -1,0 +1,3 @@
+# State/log files (machine-specific)
+*.log
+*-state.json
